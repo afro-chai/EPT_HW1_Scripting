@@ -6,6 +6,7 @@ Creates a pentesting engagement folder structure in the current working director
 AndrewID: afrocha
 Student: Ariana Rocha
 Due Date: 18MAR2026
+Github Repo: https://github.com/afro-chai/EPT_HW1_Scripting.git
 """
 
 from pathlib import Path
