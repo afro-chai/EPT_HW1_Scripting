@@ -1,7 +1,11 @@
 #!/usr/bin/env python3
 """
-EPT Week 1 – Scripting
+EPT Week 1 – Scripting (HW1)
 Creates a pentesting engagement folder structure in the current working directory.
+
+AndrewID: afrocha
+Student: Ariana Rocha
+Due Date: 18MAR2026
 """
 
 from pathlib import Path
